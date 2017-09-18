@@ -2,3 +2,5 @@ Hi.
 
 This is some info in the 'public' repo.
 
+More public changes here.
+
